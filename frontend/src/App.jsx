@@ -1,7 +1,9 @@
+import Content_box from "./Componets/Content_box.jsx";
+import "./Styles/styles.css"
 function App(){
     return (
         <>
-        <h1>hi</h1>
+        <Content_box/>
         </>
     )
 }
